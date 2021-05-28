@@ -1,4 +1,4 @@
-I separated the positive and negative image folders as they were too big to upload. The full version of the project is available on the VLE.
+I separated the positive and negative image folders as they were too big to upload. The full version of the project is available on the VLE Final Project Report Submissions Page.
 
 Steps to use the App:
 
