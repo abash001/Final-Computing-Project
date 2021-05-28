@@ -15,5 +15,4 @@ References:
 
 [2] The above data was transformed by the author of https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/
 
-
-
+[3] Dataset obtained from https://data.mendeley.com/datasets/8h65ywd2jr/1#__sid=js0 
